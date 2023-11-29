@@ -1,6 +1,5 @@
 ﻿<?php
 
-?>
 <html lang="zh-CN">
 
 <head>
